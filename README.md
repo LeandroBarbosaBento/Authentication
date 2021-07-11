@@ -15,6 +15,6 @@ This is an authentication system made using Laravel 8.X and Bootstrap 4. Its bee
 ## Logged in
 ![Logged in](/readmeImages/05_logged.png)
 
-## Not logged in and trying to access the dashboard page (dashboard route)
+## Not logged and trying to access the dashboard page (dashboard route)
 ![Logged in](/readmeImages/06_tryingAdmin_notLogged.png)
 
